@@ -1,4 +1,4 @@
-Passo 1 - HTML
+# Passo 1 - HTML
 
 O poder do HTML é sua capacidade de representar informações complexas de maneira a transmitir significado. Neste exercício, você criará uma página HTML para minha receita favorita.
 
